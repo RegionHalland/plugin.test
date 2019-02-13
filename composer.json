@@ -104,6 +104,18 @@
       "url": "https://github.com/RegionHalland/region-halland-nav-site.git"
     },
     {
+      "type": "vcs",
+      "url": "https://github.com/RegionHalland/region-halland-acf-front-page-links.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/RegionHalland/region-halland-single-page-information.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/RegionHalland/region-halland-news-archive-taxonomi-category.git"
+    },
+    {
        "type": "vcs",
        "url": "https://github.com/RegionHalland/mfpconnect.git"
     },
@@ -147,7 +159,11 @@
     "gridonic/princexml-php": "^1.2",
     "wpackagist-plugin/wp-nested-pages": "2.0.4",
     "wpackagist-plugin/user-role-editor": "^4.35",
-    "wpackagist-plugin/admin-menu-editor": "1.8.5",
+    "wpackagist-plugin/admin-menu-editor": "1.8.7",
+    "wpackagist-plugin/mce-table-buttons":"3.3",
+    "wpackagist-plugin/classic-editor":"1.4",
+    "wpackagist-plugin/google-sitemap-generator": "4.1.0",
+    "wpackagist-plugin/enable-media-replace":"3.2.8",
     "advanced-custom-fields/advanced-custom-fields-pro": "*",
     "regionhalland/std-plugin": "4.0.3",
     "regionhalland/print-terapirekommendationer": "1.0.3",
@@ -167,6 +183,9 @@
     "regionhalland/region-halland-page-children": "1.0.1",
     "regionhalland/region-halland-nav-sidebar": "1.0.1",
     "regionhalland/region-halland-nav-site": "1.0.0",
+    "regionhalland/region-halland-acf-front-page-links": "1.0.0",
+    "regionhalland/region-halland-single-page-information": "1.0.0",
+    "regionhalland/region-halland-news-archive-taxonomi-category": "1.0.0",
     "regionhalland/mfpconnect": "1.0.1",
     "regionhalland/mfpconnectmedia": "1.0.1",
     "helsingborg-stad/modularity": "2.3.54",
