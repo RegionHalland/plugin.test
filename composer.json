@@ -116,6 +116,22 @@
       "url": "https://github.com/RegionHalland/region-halland-news-archive-taxonomi-category.git"
     },
     {
+      "type": "vcs",
+      "url": "https://github.com/RegionHalland/region-halland-main-post-settings-vardgivare.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/RegionHalland/region-halland-section-news-vardgivare.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/RegionHalland/region-halland-template-top-links-vardgivare.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/RegionHalland/region-halland-acf-page-kulturkatalog.git"
+    },
+    {
        "type": "vcs",
        "url": "https://github.com/RegionHalland/mfpconnect.git"
     },
@@ -169,7 +185,7 @@
     "regionhalland/print-terapirekommendationer": "1.0.3",
     "regionhalland/region-halland-breadcrumbs-pages": "1.1.1",
     "regionhalland/region-halland-breadcrumbs": "1.0.0",
-    "regionhalland/region-halland-tree-first-level": "1.0.0",
+    "regionhalland/region-halland-tree-first-level": "1.1.0",
     "regionhalland/region-halland-current-page-and-child-pages": "1.0.0",
     "regionhalland/region-halland-mobile-detect": "1.0.0",
     "regionhalland/region-halland-acf-add-theme-subpage": "1.0.0",
@@ -186,6 +202,10 @@
     "regionhalland/region-halland-acf-front-page-links": "1.0.0",
     "regionhalland/region-halland-single-page-information": "1.0.0",
     "regionhalland/region-halland-news-archive-taxonomi-category": "1.0.0",
+    "regionhalland/region-halland-main-post-settings-vardgivare": "1.0.1",
+    "regionhalland/region-halland-section-news-vardgivare": "1.0.0",
+    "regionhalland/region-halland-template-top-links-vardgivare": "1.1.0",
+    "regionhalland/region-halland-acf-page-kulturkatalog": "1.0.0",
     "regionhalland/mfpconnect": "1.0.1",
     "regionhalland/mfpconnectmedia": "1.0.1",
     "helsingborg-stad/modularity": "2.3.54",
