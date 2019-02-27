@@ -144,6 +144,10 @@
       "url": "https://github.com/RegionHalland/region-halland-acf-page-kulturevenemang.git"
     },
     {
+      "type": "vcs",
+      "url": "https://github.com/RegionHalland/region-halland-api-analysforteckning.git"
+    },
+    {
        "type": "vcs",
        "url": "https://github.com/RegionHalland/mfpconnect.git"
     },
@@ -221,6 +225,7 @@
     "regionhalland/region-halland-acf-options-page-site-message": "1.0.1",
     "regionhalland/region-halland-acf-page-ingress": "1.0.0",
     "regionhalland/region-halland-acf-page-kulturevenemang": "1.1.1",
+    "regionhalland/region-halland-api-analysforteckning": "1.0.0",
     "regionhalland/mfpconnect": "1.0.1",
     "regionhalland/mfpconnectmedia": "1.0.1",
     "helsingborg-stad/modularity": "2.3.54",
