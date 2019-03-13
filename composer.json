@@ -148,6 +148,10 @@
       "url": "https://github.com/RegionHalland/region-halland-api-analysforteckning.git"
     },
     {
+      "type": "vcs",
+      "url": "https://github.com/RegionHalland/region-halland-xml-site-map.git"
+    },
+    {
        "type": "vcs",
        "url": "https://github.com/RegionHalland/mfpconnect.git"
     },
@@ -157,11 +161,15 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/RegionHalland/Modularity.git"
+      "url": "https://github.com/RegionHalland/region-halland-acf-page-links-blurbs.git"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/RegionHalland/mod-linkgroup.git"
+      "url": "https://github.com/RegionHalland/region-halland-a-b-c-page-links-repeater.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/RegionHalland/region-halland-use-taxonomy-category-on-page.git"
     },
     {
       "type": "package",
@@ -194,13 +202,12 @@
     "wpackagist-plugin/admin-menu-editor": "1.8.7",
     "wpackagist-plugin/mce-table-buttons":"3.3",
     "wpackagist-plugin/classic-editor":"1.4",
-    "wpackagist-plugin/google-sitemap-generator": "4.1.0",
     "wpackagist-plugin/enable-media-replace":"3.2.8",
     "advanced-custom-fields/advanced-custom-fields-pro": "*",
     "regionhalland/std-plugin": "4.0.3",
-    "regionhalland/print-terapirekommendationer": "1.0.3",
+    "regionhalland/print-terapirekommendationer": "1.1.56",
     "regionhalland/region-halland-breadcrumbs-pages": "1.1.1",
-    "regionhalland/region-halland-breadcrumbs": "1.0.0",
+    "regionhalland/region-halland-breadcrumbs": "1.0.1",
     "regionhalland/region-halland-tree-first-level": "1.1.0",
     "regionhalland/region-halland-current-page-and-child-pages": "1.0.0",
     "regionhalland/region-halland-mobile-detect": "1.0.0",
@@ -208,29 +215,31 @@
     "regionhalland/region-halland-acf-cookie-notice": "1.0.0",
     "regionhalland/test-private-plugin": "1.0.0",
     "regionhalland/region-halland-varbi-works": "1.0.0",
-    "regionhalland/region-halland-acf-drift-info": "1.0.0",
+    "regionhalland/region-halland-acf-drift-info": "1.1.0",
     "regionhalland/region-halland-prepare-the-content": "1.0.0",
     "regionhalland/region-halland-find-on-page": "1.0.1",
     "regionhalland/region-halland-mixed-functions": "1.0.0",
-    "regionhalland/region-halland-page-children": "1.0.1",
+    "regionhalland/region-halland-page-children": "1.1.0",
     "regionhalland/region-halland-nav-sidebar": "1.0.1",
-    "regionhalland/region-halland-nav-site": "1.0.0",
+    "regionhalland/region-halland-nav-site": "1.0.1",
     "regionhalland/region-halland-acf-front-page-links": "1.0.0",
     "regionhalland/region-halland-single-page-information": "1.0.0",
-    "regionhalland/region-halland-news-archive-taxonomi-category": "1.0.0",
+    "regionhalland/region-halland-news-archive-taxonomi-category": "1.2.1",
     "regionhalland/region-halland-main-post-settings-vardgivare": "1.0.1",
     "regionhalland/region-halland-section-news-vardgivare": "1.0.0",
     "regionhalland/region-halland-template-top-links-vardgivare": "1.1.0",
-    "regionhalland/region-halland-acf-page-kulturkatalog": "1.1.0",
+    "regionhalland/region-halland-acf-page-kulturkatalog": "1.2.0",
     "regionhalland/region-halland-acf-options-page-site-message": "1.0.1",
-    "regionhalland/region-halland-acf-page-ingress": "1.0.0",
+    "regionhalland/region-halland-acf-page-ingress": "1.1.0",
     "regionhalland/region-halland-acf-page-kulturevenemang": "1.1.1",
     "regionhalland/region-halland-api-analysforteckning": "1.0.0",
+    "regionhalland/region-halland-acf-page-links-blurbs": "1.3.0",
+    "regionhalland/region-halland-xml-site-map": "1.0.0",
+    "regionhalland/region-halland-a-b-c-page-links-repeater": "1.0.0",
+    "regionhalland/region-halland-use-taxonomy-category-on-page": "1.0.0",
     "regionhalland/mfpconnect": "1.0.1",
-    "regionhalland/mfpconnectmedia": "1.0.1",
-    "helsingborg-stad/modularity": "2.3.54",
-    "regionhalland/mod-linkgroup": "dev-master#ce46ee2"
-    },
+    "regionhalland/mfpconnectmedia": "1.0.1"
+  },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
     "roave/security-advisories": "dev-master"
